@@ -42,4 +42,4 @@ remote 8
 local 8
 >>>>>>> Stashed changes
 
-remote 9
+local 9
