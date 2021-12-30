@@ -2,3 +2,7 @@ retweet
 
 local yapilan degisiklik
 uzakdan yapilan degisklik
+
+
+
+uzak degisiklik 2
