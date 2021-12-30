@@ -12,3 +12,4 @@ uzak degisiklik 3
 
 local degisiklik3
 >>>>>>> Stashed changes
+uzak 4
