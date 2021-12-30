@@ -6,3 +6,4 @@ uzakdan yapilan degisklik
 
 
 uzak degisiklik 2
+uzak degisiklik 3
