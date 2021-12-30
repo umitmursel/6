@@ -34,3 +34,6 @@ uzak 7
 
 local 7
 >>>>>>> Stashed changes
+
+
+remote 8
