@@ -1,2 +1,3 @@
 retweet
-uzakdan yapilan degisiklik
+
+local yapilan degisiklik
