@@ -36,4 +36,8 @@ local 7
 >>>>>>> Stashed changes
 
 
+<<<<<<< Updated upstream
 remote 8
+=======
+local 8
+>>>>>>> Stashed changes
