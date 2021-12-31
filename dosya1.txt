@@ -49,4 +49,9 @@ remote 10
 =======
 local 10
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
 remote 11
+=======
+
+local 11
+>>>>>>> Stashed changes
