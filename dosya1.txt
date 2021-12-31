@@ -49,4 +49,4 @@ remote 10
 =======
 local 10
 >>>>>>> Stashed changes
-local 11
+remote 11
