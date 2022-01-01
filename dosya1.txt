@@ -58,4 +58,9 @@ local 11
 
 remote 12
 local 12
+<<<<<<< Updated upstream
 remote 13
+=======
+local 13
+
+>>>>>>> Stashed changes
