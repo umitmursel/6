@@ -57,3 +57,4 @@ local 11
 >>>>>>> Stashed changes
 
 remote 12
+local 12
